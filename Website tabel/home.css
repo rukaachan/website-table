@@ -1,0 +1,11 @@
+body {
+	background: url(img/asetdigital.jpg);
+	background-repeat: no-repeat;
+}
+.transparent{
+	background: rgba(10, 0, 0, 0);
+	width: 60%;
+	height: 350px auto;
+	padding: 10px;
+}
+.transparent h1{margin: 0;}
